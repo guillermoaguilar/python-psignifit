@@ -16,7 +16,7 @@ python-psignifit depends on few external python packages:
 
 These packages are often shipped with scientific python distributions or, if not already there,
 are installed automatically during the installation of python-psignifit.
-We `automatically check <https://github.com/wichmann-lab/python-psignifit/actions/workflows/ci-tests.yml>`
+We `automatically check <https://github.com/wichmann-lab/python-psignifit/actions/workflows/cd-release.yml>`__
 compatibility with different python 3 versions on Ubuntu Linux and Windows. We do not support python 2.
 
 .. _pip install:

@@ -3,8 +3,8 @@
 Welcome to psignifit's documentation!
 =====================================
 
-This wiki hosts a manual and comments on our python clone of our MATLAB
-toolbox `psignifit
+This wiki hosts a manual and comments on our python implementation 
+of our MATLAB toolbox `psignifit
 4 <https://github.com/wichmann-lab/psignifit/wiki>`__.
 
 This code was tested against the MATLAB version and yields the same
